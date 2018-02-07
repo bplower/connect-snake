@@ -4,7 +4,9 @@ An implementation of the game Snake inspired by the classic Connect Four game.
 
 ## Background
 
-This is the sourcecode for connect-snake.brahmlower.io, a project inspired by [this gif](https://imgur.com/gallery/GBrEM) I saw on Imgur the other day. Frontend development is not my preferred area of software development, so please excuse the horrible javascript. This project was thrown together with no real planning :)
+This project was inspired by [this gif](https://imgur.com/gallery/GBrEM) I saw on Imgur the other day. An example of this project in action can be found at http://connect-snake.brahmlower.io.
+
+Frontend development is not my preferred area of software development, so please excuse the horrible javascript. This project was thrown together with no real planning :)
 
 
 ## Building

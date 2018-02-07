@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/bplower/connect-snake#readme",
   "files": [
-    "*.png"
+    "static/*.png"
   ],
   "devDependencies": {
     "gulp": "^3.9.1",
